@@ -5,7 +5,7 @@ export default class index extends Component {
     constructor() {
      super ();
         this.state = { 
-            books:["1", "2"],
+            books:[],
             currentlyReading:[],
             wantToRead:[],
             read:[],
